@@ -14,7 +14,11 @@
 
 | -----README.MD 库的基本介绍
 
-|----TRAINING-DATA.MD  日常训练数据
+|----TRAINING-DATA.MD  路跑日常训练数据
+
+|----TRAIL-TRAINING-DATA.MD  越野跑日常训练数据
+
+|----STRENGTH-TRAINING-DATA.MD  力量日常训练数据
 
 |----RACE-DATA.MD  比赛数据
 
